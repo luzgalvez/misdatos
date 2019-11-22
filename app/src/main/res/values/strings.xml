@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">misdatos</string>
+    <string name="nombre">Escribe tu nombre</string>
+    <string name="email">Escribe tu email</string>
+    <string name="telefono">Escribe tu telefono</string>
+    <string name="misDatos">misDatos</string>
+
+</resources>
