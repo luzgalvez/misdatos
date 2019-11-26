@@ -37,6 +37,13 @@
             android:inputType="textPersonName"
             android:text="@string/telefono" />
 
+        <Button
+            android:id="@+id/buttonluz"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="guardaDatos"
+            android:text="Button" />
+
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
